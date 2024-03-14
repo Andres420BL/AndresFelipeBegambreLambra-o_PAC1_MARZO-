@@ -31,9 +31,9 @@ while var_controlbln ==True:
                       
     if opcionint == 2:
         print('Contador de A---------------->',contador_A)
-        print('Contador de B---------------->',contador_e)
-        print('Contador de C---------------->',contador_I)
-        print('Contador de o---------------->',contador_O)
+        print('Contador de E---------------->',contador_e)
+        print('Contador de I---------------->',contador_I)
+        print('Contador de O---------------->',contador_O)
         print('Contador de U---------------->',contador_u)
         print('Total de vocales---------------->',contador_I+contador_e+contador_A+contador_O + contador_u )
 
